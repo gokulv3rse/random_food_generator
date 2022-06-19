@@ -1,0 +1,16 @@
+"""
+Food Recommendation System
+
+#Steps
+1.Asks user for what type of meal(breakfast,lunch,dinner,snacks)
+2.What's your mood
+  .spicy
+  .sweet (If sweet "dish" or a "fruit")
+  .salty
+  .savory
+  .hot drinks
+  .cold drinks
+
+  If sweet: a dish or a fruit
+3. Results
+"""
